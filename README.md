@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I’m Suman Khatiwada
 
-<!--
-**sumankhatiwada7/sumankhatiwada7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Frontend Developer | 🌱 Learner | 🎯 Focused on Building Clean & Responsive Websites
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate web developer from Makalbari who loves turning ideas into real, user-friendly websites. I enjoy working with HTML, CSS, JavaScript, and exploring cool new tools that improve user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+- 💡 **Languages**: HTML, CSS, JavaScript, C,C++,LARAVEL,REACT JS
+- 🧩 **Tools**: Git, GitHub, Dev-C++,vscode
+- 🧱 **Backend**: Laravel (Learning)
+
+---
+
+## 🌱 What I’m Currently Working On
+
+
+- 🧠 Learning **Laravel**
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 Email: [sumankhatiwada786@gmail.com]
+- 📍 Location: Makalbari, Nepal
+
+---
+
+## 📈 GitHub Stats
+
+![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumanKhatiwada&show_icons=true&theme=radical)
+
+---
+
+Feel free to explore my repositories and connect with me!
