@@ -30,7 +30,8 @@ Welcome to my GitHub profile! I'm a passionate web developer from Makalbari who 
 
 ## 📈 GitHub Stats
 
-![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumanKhatiwada&show_icons=true&theme=radical)
+![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumanKhatiwada&show_icons=true&theme=radical&cache_bust=1)
+
 
 ---
 
