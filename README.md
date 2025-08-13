@@ -2,6 +2,9 @@
 Frontend Developer | Learner | Building Clean & Responsive Web Experiences
 
 I'm a passionate web developer from Makalbari, Nepal, turning ideas into interactive and user-friendly websites using modern web technologies.
+<div align="center">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWNkb2xzZjBxYnE0ejVhbzE3OGNwbjFwMXVlNm1mc25ydXlsa3R2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WmkEhAIyWfpm1vdVcg/giphy.gif" width="200" alt="Welcome GIF" />
+</div>
 
 🛠️ Tech Stack  
 <div>
