@@ -5,7 +5,7 @@ I'm a passionate web developer from Makalbari, Nepal 🇳🇵, turning ideas int
 
 I love building responsive UIs, designing efficient APIs, and continuously improving my skills in full-stack development.
 
-<div align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG83YzY1aWtyOGExZmxxMjh6Z2k0MnU5MnI4YmluaG5kbDFyeTlkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ghCX1B38YFXAwttIkg/giphy.gif" width="900" height="450" alt="Welcome GIF" /> </div>
+<div align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmd3bDZwenZsYnBtdWZocXd0bGp3eDJ0YnRuZ29yNWZpM2Zqd3FlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GCO5WNzFmlc0vjK8cA/giphy.gif" width="900" height="450" alt="Welcome GIF" /> </div>
 🧠 Currently Focused On
 
 ⚡ Building Full-Stack Apps using MERN Stack
