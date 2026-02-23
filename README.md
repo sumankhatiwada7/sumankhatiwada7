@@ -1,5 +1,5 @@
 👋 Hi, I'm Suman Khatiwada
-🚀 Frontend Developer | MERN Stack Learner | Clean Code Enthusiast
+🚀 Full-Stack Devloper
 
 I'm a passionate web developer from Makalbari, Nepal 🇳🇵, turning ideas into interactive, scalable, and user-friendly web applications using modern technologies.
 
@@ -27,6 +27,9 @@ I love building responsive UIs, designing efficient APIs, and continuously impro
 <div> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="30"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30"> </div>
 ⚙️ DevOps & Tools
 <div> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="30"> </div>
+🧪 Testing
+<div> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height="30"> <img src="https://img.shields.io/badge/Supertest-000000?style=for-the-badge&logo=testinglibrary&logoColor=white" height="30"> <img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" height="30"> </div>
+
 🧩 MERN Stack Developer
 
 I build applications using:
